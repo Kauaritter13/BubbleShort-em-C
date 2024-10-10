@@ -1,1 +1,1 @@
-## Código simples mas funcional de um organizador de numeros (BubbleShort)
+## Código simples mas funcional de um organizador de numeros (BubbleShort) em C
